@@ -1,6 +1,6 @@
 # 1
 # berilgan kod
-son = float(input("Juft son kiriting: ")
+son = float(input("Juft son kiriting: "))
 #if son%2==0:
 #    print("Bu son juft emas.')
 #else:
